@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/pheats/static/css/main.ef9af1ec.css",
+    "main.js": "/pheats/static/js/main.cb53be58.js",
+    "static/media/download2.jpg": "/pheats/static/media/download2.f1e5581a7860509308a6.jpg",
+    "static/media/headphones4.png": "/pheats/static/media/headphones4.7c8161e4f4ea8db5687e.png",
+    "static/media/headphones3.png": "/pheats/static/media/headphones3.743b6cade73ebd4d6414.png",
+    "static/media/about-us-bg.png": "/pheats/static/media/about-us-bg.9b49c545667566112b1e.png",
+    "static/media/download1.jpg": "/pheats/static/media/download1.90197862dfa1c0ecf4dc.jpg",
+    "static/media/cardimg3.png": "/pheats/static/media/cardimg3.335bc31f0d409ce303c4.png",
+    "static/media/eb5.png": "/pheats/static/media/eb5.bd488e22eed4dd8f4ba2.png",
+    "static/media/headphones2.png": "/pheats/static/media/headphones2.dda29137bc038abfcf2e.png",
+    "static/media/headphones1.png": "/pheats/static/media/headphones1.ce57b28507e2a701b8ae.png",
+    "static/media/eb2.png": "/pheats/static/media/eb2.5deb545dd549e7f22146.png",
+    "static/media/cardimg2.png": "/pheats/static/media/cardimg2.b0961763b8f22b69f32e.png",
+    "static/media/product-box2.png": "/pheats/static/media/product-box2.be5fb9e65ac0c21e3a71.png",
+    "static/media/eb4.png": "/pheats/static/media/eb4.d15731f6679a158b0898.png",
+    "static/media/about-bg.png": "/pheats/static/media/about-bg.4a4278c9181ce3a2e003.png",
+    "static/media/eb3.png": "/pheats/static/media/eb3.bdd5386169b15a67f312.png",
+    "static/media/box-img4.png": "/pheats/static/media/box-img4.298ce781b605d0ff722f.png",
+    "static/media/box-img3.png": "/pheats/static/media/box-img3.b28e34c0ac3e56933e3c.png",
+    "static/media/cardimg4.png": "/pheats/static/media/cardimg4.8e2f64457dc445c8ae86.png",
+    "static/media/box-img5.png": "/pheats/static/media/box-img5.b58e6c8141e7d3d9079a.png",
+    "static/media/earbuds2.png": "/pheats/static/media/earbuds2.9f68f693e19df2acb0c6.png",
+    "static/media/eb1.png": "/pheats/static/media/eb1.13527d43235ba9e863b0.png",
+    "static/media/earbuds4.png": "/pheats/static/media/earbuds4.e7762435b98a87810ce1.png",
+    "static/media/cardimg1.png": "/pheats/static/media/cardimg1.94c12e988990b18d59db.png",
+    "index.html": "/pheats/index.html",
+    "main.ef9af1ec.css.map": "/pheats/static/css/main.ef9af1ec.css.map",
+    "main.cb53be58.js.map": "/pheats/static/js/main.cb53be58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef9af1ec.css",
+    "static/js/main.cb53be58.js"
+  ]
+}
